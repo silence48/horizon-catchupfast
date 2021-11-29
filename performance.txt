@@ -1,0 +1,2 @@
+80,000 ledgers with 8 threads at 2500 per thread : 370.15 per sec, 216.1282215 seconds.
+80,000 ledgers with 16 threads at 2500 per thread : 
